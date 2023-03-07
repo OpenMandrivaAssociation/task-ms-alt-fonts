@@ -8,8 +8,8 @@ License:	GPLv2+
 BuildArch:	noarch
 
 Requires: fonts-ttf-arimo
-Requires: fonts-ttf-caladea
-Requires: fonts-ttf-carlito
+#Requires: fonts-ttf-caladea
+#Requires: fonts-ttf-carlito
 Requires: fonts-ttf-comic-relief
 Requires: fonts-ttf-cousine
 Requires: fonts-ttf-gelasio
